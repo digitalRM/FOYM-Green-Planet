@@ -60,7 +60,7 @@ export function TreesChartTwo({ ...props }) {
         >
           <PieChart>
             <ChartTooltip
-              cursor={false}
+              cursor={true}
               className="w-40"
               content={<ChartTooltipContent hideLabel />}
             />
