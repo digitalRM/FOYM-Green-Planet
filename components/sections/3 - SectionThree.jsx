@@ -1,5 +1,5 @@
 import React from 'react'
-import { TreesChartTwo } from '../ui/trees-chart-2'
+import { TreesChartTwo } from '../ui/1 - trees-chart-2'
 
 export default function SectionThree() {
   return (

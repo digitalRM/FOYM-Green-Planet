@@ -1,5 +1,5 @@
 import React from 'react'
-import { TreeChart } from '../ui/trees-chart'
+import { TreeChart } from '../ui/1 - trees-chart'
 
 export default function Information() {
   return (

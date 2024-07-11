@@ -1,6 +1,6 @@
 import React from 'react'
-import { ContactDialog } from './contact-dialog.jsx'
-import MobileDrawer from './mobile-drawer.jsx'
+import { ContactDialog } from './1 - contact-dialog.jsx'
+import MobileDrawer from './1 - mobile-drawer.jsx'
 
 const links = [
   { href: '/', label: 'Home' },

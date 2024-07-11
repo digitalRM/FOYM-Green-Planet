@@ -1,5 +1,5 @@
 import React from 'react'
-import { ContactDialog } from '../ui/contact-dialog'
+import { ContactDialog } from '../ui/1 - contact-dialog'
 
 // bg-[url('/bottomWave.png')] bg-no-repeat 2xl:bg-top
 
