@@ -23,7 +23,6 @@ import {
   DrawerTrigger,
 } from "@/components/ui/drawer";
 import useMediaQuery from "@custom-react-hooks/use-media-query";
-import { Hedvig_Letters_Sans, Lora } from "next/font/google";
 
 export function ContactDialog({...props}) {
   const [open, setOpen] = React.useState(false);

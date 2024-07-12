@@ -16,10 +16,7 @@ export default function Hero() {
               <Button className="w-full">Donate</Button>
               <Button variant="outline" className="w-full">Learn More</Button>
             </div>
-              
-          
           </div>
-
         </div>
       </div>
     </div>
