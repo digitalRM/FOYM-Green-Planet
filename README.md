@@ -82,7 +82,7 @@ export const metadata = {
         url: '/openGraph.png',
         width: 1600,
         height: 900,
-        alt: 'An image on the the website\s name "Green Planet Template - FOYM" and star like characters in the background pointing at the name',
+        alt: 'An image of the website\s name "Green Planet - An FOYM. Template" and star like characters in the background pointing at the name',
       },
     ], 
     locale: 'en_US',
