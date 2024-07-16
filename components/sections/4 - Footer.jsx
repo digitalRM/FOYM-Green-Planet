@@ -23,7 +23,7 @@ export default function Footer() {
              © 2024 Green Planet. - An FOYM Template 
             </p>
             <p className="text-xs text-neutral-200 mt-8 sm:mt-0">
-            Use this template for free on <a href="https://www.foym.org" className="text-white hover:underline">foym.org</a>
+            Use this template for free on <a href="https://www.foym.org" className="text-white underline">foym.org</a>
             </p>
           </div>
         </div>
